@@ -2,6 +2,10 @@
 
 Student at [IUT de Lille](https://iut.univ-lille.fr/)
 
+## Actively working on
+
+[Sudo Capitalism](https://github.com/wawannbe/Sudo-Capitalism)
+
 ## Currently learning
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
