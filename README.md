@@ -4,8 +4,7 @@ Student at [IUT de Lille](https://iut.univ-lille.fr/)
 
 ## Actively working on
 
-[Sudo Capitalism](https://github.com/wawannbe/Sudo-Capitalism)
--> My humouristic game made in Java with [LibGDX](https://libgdx.com/)
+-> My own humouristic game made in Java with [LibGDX](https://libgdx.com/)
 
 ## Some of my projects
 
