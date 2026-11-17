@@ -4,7 +4,7 @@ Student at [IUT de Lille](https://iut.univ-lille.fr/)
 
 ## Actively working on
 
--> [Sudo Capitalism](sudo-capitalism.online) My own game
+-> [Sudo Capitalism](https://sudo-capitalism.online) My own game
 
 ## Some of my projects
 
