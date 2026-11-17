@@ -4,7 +4,7 @@ Student at [IUT de Lille](https://iut.univ-lille.fr/)
 
 ## Actively working on
 
--> My own humouristic game made in Java with [LibGDX](https://libgdx.com/)
+-> [Sudo Capitalism](sudo-capitalism.online) My own game
 
 ## Some of my projects
 
